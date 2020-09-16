@@ -4,9 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-					    <Button xmlns="sap.m" text="Button" id="button0"/>
-					    <FeedInput id="input0"/>
-					    <Input xmlns="sap.m" value="Value" id="input1"/>
+					    <Button xmlns="sap.m" text="second commit" id="button0"/>
 					</content>
 				</Page>
 			</pages>
