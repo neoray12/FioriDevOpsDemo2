@@ -1,0 +1,15 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="saptw.FioriDevOpsDemo.controller.View1" displayBlock="true">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+					    <Button xmlns="sap.m" text="Button" id="button0"/>
+					    <FeedInput id="input0"/>
+					    <Input xmlns="sap.m" value="Value" id="input1"/>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
