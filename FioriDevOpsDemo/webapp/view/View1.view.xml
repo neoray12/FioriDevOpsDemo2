@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-					    <Button xmlns="sap.m" text="second commit" id="button0"/>
+					    <Button xmlns="sap.m" text="third commit" id="button0"/>
 					</content>
 				</Page>
 			</pages>
